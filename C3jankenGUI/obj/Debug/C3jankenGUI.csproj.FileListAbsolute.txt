@@ -1,0 +1,11 @@
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\bin\Debug\C3jankenGUI.exe.config
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\bin\Debug\C3jankenGUI.exe
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\bin\Debug\C3jankenGUI.pdb
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.csproj.AssemblyReference.cache
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.Form1.resources
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.Properties.Resources.resources
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.csproj.GenerateResource.cache
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.csproj.CoreCompileInputs.cache
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.exe
+C:\Users\eric\source\repos\C3jankenGUI\C3jankenGUI\obj\Debug\C3jankenGUI.pdb
